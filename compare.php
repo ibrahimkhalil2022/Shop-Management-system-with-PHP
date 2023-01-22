@@ -11,11 +11,11 @@
     	<div class="cartoption">		
 			<div class="cartpage">
 			    	<h2>Compare</h2>
-						<table class="tblone">
+						<table class="tblone">      
 							<tr>
 								<th>SL</th>
 								<th>Product Name</th>
-								<th>Price</th>
+								<th>Prices</th>
 								<th>Image</th>
 								
 								<th>Action</th>
